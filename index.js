@@ -39,3 +39,5 @@ const readme = render(readmeTpl, {
 });
 
 writeFileSync(join(process.cwd(), 'README.md'), readme, 'utf8');
+
+console.log('README.md is updated.')
