@@ -1,0 +1,24 @@
+{
+  "name": "use-hooks-readme",
+  "version": "1.0.0",
+  "description": "Readme Generator",
+  "main": "index.js",
+  "bin": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/use-hooks/readme-generator.git"
+  },
+  "keywords": [
+    "react",
+    "react-hooks"
+  ],
+  "author": "Cody Chan <int64ago@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/use-hooks/readme-generator/issues"
+  },
+  "homepage": "https://github.com/use-hooks/readme-generator#readme",
+  "dependencies": {
+    "ejs": "^2.6.1"
+  }
+}
